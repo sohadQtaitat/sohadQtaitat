@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**sohadQtaitat/sohadQtaitat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <br>
 <h2 align='center'><samp><strong> Hi there 👋 This is Sohad Qtaitat </strong></samp></h2> 
 <p align='center'> Master Computer Science | Full Stack Software Developer | I enjoy learning new things</p>
@@ -14,3 +10,7 @@
 <a href="mailto:qtaitat3@gmail.com"><img height="22" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/mail.png?raw=true" alt=""></a>
 </p>
 <br><br>
+ 
+<!--
+**sohadQtaitat/sohadQtaitat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
